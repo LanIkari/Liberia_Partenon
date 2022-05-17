@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Maike
+ * @author Brandon A.V
  */
 public class AutoresTabla extends javax.swing.JDialog {
     private TablaModelAutores modelo=new TablaModelAutores();

@@ -12,7 +12,7 @@ import javax.swing.JTable;
 
 /**
  *
- * @author Maike
+ * @author Brandon A.V
  */
 public class DatosUbicacion extends javax.swing.JDialog {
     private ArrayList<Ubicacion> datos = null;

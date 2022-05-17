@@ -14,7 +14,7 @@ import javax.swing.JTable;
 
 /**
  *
- * @author Maike
+ * @author Brandon A.V
  */
 public class Libro extends javax.swing.JDialog {
     private ArrayList<partenon.Libro> lib = null;

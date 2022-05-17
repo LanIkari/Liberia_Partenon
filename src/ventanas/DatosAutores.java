@@ -15,7 +15,7 @@ import javax.swing.JTable;
 
 /**
  *
- * @author Maike
+ * @author Brandon A.V
  */
 public class DatosAutores extends javax.swing.JDialog {
     private ArrayList<Autor> datos = null;

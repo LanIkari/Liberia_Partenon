@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author mario
+ * @author Brandon A.V
  */
 public class LibroTabla extends javax.swing.JDialog {
     private TablaModelLibro modelo=new TablaModelLibro();

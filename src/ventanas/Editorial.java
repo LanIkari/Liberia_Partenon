@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author mario
+ * @author Brandon A.V
  */
 public class Editorial extends javax.swing.JDialog {
     

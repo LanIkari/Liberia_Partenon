@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Maike
+ * @author Brandon A.V
  */
 public class Genero extends javax.swing.JDialog {
     //private ArrayList<Ubicacion> ubicacion = new ArrayList<Ubicacion>();
